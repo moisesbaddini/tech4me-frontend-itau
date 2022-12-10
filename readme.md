@@ -70,6 +70,10 @@ Agora nossa pasta está sob controle de versionamento
 
   - Toda vez que eu faço um add, o artefato é adicionado naquele ponto no tempo.
 
+- git diff arquivo
+
+  - permite ver as alterações do arquivo que está no add (staging)
+
 - Qual a única coisa que sobe para o servidor no comando git push?
   - as alterações de cada git commit
 
@@ -78,3 +82,4 @@ Agora nossa pasta está sob controle de versionamento
 [Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
 
 **© 2022 Zépa Software**
+[LinkedIn do Zépa](https://www.linkedin.com/in/moisesbaddini)
